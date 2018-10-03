@@ -199,7 +199,7 @@ Open `settings.json`
 
 > Mac: <kbd>cmd+,</kbd>
 
-> Windows / Linux: **File** > **Preferences** > **Settings**
+> Windows / Linux: **File** > **Preferences** > **Settings** or <kbd>ctrl+,</kbd>
 
 *Format on paste*
 
