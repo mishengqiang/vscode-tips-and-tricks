@@ -1,7 +1,7 @@
 # [VS Code](https://code.visualstudio.com) Tips and Tricks
 
->**Note**: Tips and Tricks has moved to the official Visual Studio Code documentation at [code.visualstudio.com](https://code.visualstudio.com/docs/getstarted/tips-and-tricks).<BR> 
->The content is now at [vscode-docs](https://github.com/Microsoft/vscode-docs/blob/master/docs/getstarted/tips-and-tricks.md). Pull requests and documentation issues are still greatly appreciated. 
+>**Note**: Tips and Tricks has moved to the official Visual Studio Code documentation at [code.visualstudio.com](https://code.visualstudio.com/docs/getstarted/tips-and-tricks).<BR>
+>The content is now at [vscode-docs](https://github.com/Microsoft/vscode-docs/blob/master/docs/getstarted/tips-and-tricks.md). Pull requests and documentation issues are still greatly appreciated.
 
 # Table of Contents
 
@@ -805,7 +805,7 @@ If you prefer the inline view, you can set `"diffEditor.renderSideBySide": false
 
 **Review Pane**
 
-Navigate through diffs with `F7` and `Shift+F7`. This will present them in a unified patch format. 
+Navigate through diffs with `F7` and `Shift+F7`. This will present them in a unified patch format.
 Lines can be navigated with arrow keys and pressing `Enter` will jump back in the diff editor and the selected line.
 
 ![diff_review_pane](/media/diff_review_pane.png)
@@ -868,6 +868,9 @@ During a merge, click the Source Control button in the Activity Bar and make cha
 ```bash
 git config --global merge.tool code
 ```
+## Pull request extension
+
+Review pull requests inside vscode [vscode-pull-request-github](https://github.com/Microsoft/vscode-pull-request-github)
 
 # Debugging
 
